@@ -143,5 +143,5 @@ vite.config.ts.timestamp-*
 .vite/
 node_modules/
 .env
-dist/
-build/
+Backend/.env
+Frontend/.env
